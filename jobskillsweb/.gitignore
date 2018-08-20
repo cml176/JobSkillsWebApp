@@ -1,0 +1,32 @@
+.gradle
+/build/
+gradlew
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.xml
+*.iws
+*.iml
+*.ipr
+*.gradle
+*.properties
+*.jar
+*.bat
+
+/out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
